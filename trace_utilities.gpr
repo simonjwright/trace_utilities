@@ -1,0 +1,15 @@
+--  Copyright (C) 2024 Simon Wright <simon@pushface.org>
+--  SPDX: GPL-3.0-or-later WITH GCC-exception-3.1
+
+library project Trace_Utilities is
+
+   for Library_Name use "trace_utilities";
+   for Library_Kind use "static";
+   for Library_Dir use "lib";
+
+   for Source_Dirs use ("src");
+   for Object_Dir use ".build";
+
+   for Create_Missing_Dirs use "true";
+
+end Trace_Utilities;

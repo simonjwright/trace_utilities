@@ -1,0 +1,10 @@
+name = "trace_utilities"
+description = "Support for presenting traceback information."
+version = "0.1.0-dev"
+
+authors = ["Simon Wright"]
+maintainers = ["Simon Wright <simon@pushface.org>"]
+maintainers-logins = ["simonjwright"]
+licenses = "GPL-3.0-or-later WITH GCC-exception-3.1"
+website = ""
+tags = ["exception", "traceback"]
